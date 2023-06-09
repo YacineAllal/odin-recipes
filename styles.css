@@ -1,9 +1,22 @@
 body {
-  background-color: antiquewhite;
+  background-color: #F5F5DC;
 }
 
 #Header {
-  color: black;
+  color: #F5F5DC;
+  background-color: #0A0A23;
   text-align: center;
   font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+  list-style-type: none;
+  text-align: center;
+}
+
+.Recipe {
+  color: #0A0A23;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
