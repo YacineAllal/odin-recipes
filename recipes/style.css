@@ -1,0 +1,31 @@
+body {
+  background-color: olive;
+}
+
+.Header {
+  color: brown;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Desc,
+#steps {
+  text-align: center;
+}
+
+
+#Title {
+  text-align: center;
+  color: black;
+  font-family: monospace;
+}
+
+.para {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
