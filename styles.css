@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font: bold;
+  color: gray;
+  background-color: red;
+}
