@@ -1,0 +1,35 @@
+body {
+  background-color: #fca4a4;
+}
+
+#Title {
+  color: black;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Header {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  color: #34443c;
+}
+
+.center {
+  text-align: center;
+}
+
+.list {
+  font-size: large;
+  font-style: oblique;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.para {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
