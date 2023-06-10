@@ -1,0 +1,35 @@
+body {
+  background-color: yellow;
+}
+
+.Header {
+  color: violet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Desc,
+#steps {
+  text-align: center;
+}
+
+#Title {
+  text-align: center;
+  color: black;
+  font-family: monospace;
+}
+
+.para {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list {
+  font-size: large;
+  font-style: oblique;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
