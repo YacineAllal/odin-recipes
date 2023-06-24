@@ -16,9 +16,11 @@ body {
   list-style-type: none;
   text-align: center;
   padding: 10px;
-  margin-bottom:  50px;
+  margin-bottom: 50px;
   border: darkred solid 4px;
   border-radius: 12px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .Recipe:link, .Recipe:visited {
