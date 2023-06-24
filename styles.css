@@ -3,11 +3,10 @@ body {
 }
 
 #Header {
-  color: #F5F5DC;
-  background-color: #0A0A23;
+  color: #2E2E2E;
   text-align: center;
-  font-weight: bold;
-  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 2px 2px 5px darkred;
+  font-family: 'Lobster Two', cursive;
 }
 
 .list {
