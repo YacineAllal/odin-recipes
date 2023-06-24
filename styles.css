@@ -17,12 +17,13 @@ body {
   text-align: center;
   padding: 0px;
   margin: 0px;
-  
-
 }
 
-.Recipe {
-  color: #0A0A23;
-  font-weight: bold;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.Recipe:link, .Recipe:visited {
+  background-color: darkred;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
