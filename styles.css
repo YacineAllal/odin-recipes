@@ -1,5 +1,5 @@
 body {
-  background-color: #F5F5DC;
+  background-color:  #f5f0f6;
 }
 
 #Header {
@@ -8,6 +8,7 @@ body {
   text-shadow: 2px 2px 5px darkred;
   font-family: 'Lobster Two', cursive;
   font-size: 3em;
+  margin-bottom: 50px;
 }
 
 .list {
