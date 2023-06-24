@@ -27,3 +27,7 @@ body {
   text-decoration: none;
   display: inline-block;
 }
+
+.Recipe:hover, .Recipe:active {
+  background-color: red;
+}
